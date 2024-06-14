@@ -16,10 +16,6 @@ A Elocarbon é uma plataforma que simplifica a gestão de projetos de captação
 
 4. **Intermediação de Investimentos**: A Elocarbon atuará como intermediária entre investidores interessados em apoiar projetos de captação de carbono e fazendas/projetos disponíveis para captação. Facilitaremos negociações e forneceremos suporte no processo de investimento.
 
-### MVP Disponível 
-
-https://github.com/SantosRodrigo89/EloCarbon/assets/93896739/0034b543-6322-4386-b4c9-f0c9edabf903
-
 ### Objetivos Financeiros
 
 Obteremos receita através de uma porcentagem das transações de compra e venda de créditos de carbono realizadas na plataforma, bem como da prestação de serviços de consultoria e suporte técnico para projetos de captação de carbono.
@@ -39,8 +35,5 @@ Estamos entusiasmados para levar adiante esse projeto e contribuir para um futur
   
 Junte-se a nós nessa jornada para um futuro mais sustentável!
 
----
-
-*Nota: Este README é um documento vivo e pode ser atualizado à medida que o projeto evolui. Última atualização: Março de 2024.*
 
 
